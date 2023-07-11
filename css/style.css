@@ -46,6 +46,11 @@ body{
     background: #E55473;
     color: white;
 }
+.shop-btn:hover{
+    background: white;
+    color: #E55473;
+    border: 1px solid #E55473;
+}
 
 /*featured section is start*/
 
@@ -159,18 +164,20 @@ margin-bottom: 20px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     margin-bottom: 25px;
-    
+    line-height: 30px;
 }
-
-
-
-
-
-
-
-
-
-
+/*instagram section is start*/
+.instagram-section{
+    margin-bottom: 80px;
+}
+.instagram-img{
+text-align: center;
+}
+.insta-img{
+    width: 300px;
+    height: 380px;
+    margin-left: 20px;
+}
 
 
 
