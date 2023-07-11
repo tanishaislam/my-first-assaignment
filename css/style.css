@@ -131,7 +131,35 @@ body{
 .single-man p{
 margin-top: 20px;
 }
+/*about section is start*/
+.about-us-section{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.about-us-content{
+    width: 600px;
+}
+.about-us-img{
+    height: 300px;
+    margin-top: 60px;
+    border-left: 30px solid #E55473;
+    border-bottom: 30px solid #E55473;
+}
 
+
+.about-us-content h1{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+.about-us-content p{
+    color: #272727;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
 /*sign up section is start*/
 
 .sign-up-section{
