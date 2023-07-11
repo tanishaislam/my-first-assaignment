@@ -127,16 +127,40 @@ body{
 margin-top: 20px;
 }
 
+/*sign up section is start*/
 
+.sign-up-section{
+    height: 620px;
+    width: 100%;
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 
+}
 
+.sign-up-area-img{
+    width: 300px;
+    height: 400px;
+}
 
+.sign-up-content h1{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 20px;
+}
+.sign-up-content{
+    width: 600px;
+    text-align: center;
+}
 
-
-
-
-
-
+.sign-up-content p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-bottom: 25px;
+    
+}
 
 
 
