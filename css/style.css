@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400&family=Open+Sans:wght@300;400;600;700;800&display=swap');
+/*font-family: 'Lato', sans-serif;*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+/*header section is start*/
+
+.header-background{
+    background: rgba(229, 84, 115, 0.10);
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+}
+.header-content{
+    max-width: 600px;
+}
+.header-content{
+    margin-top: 180px;
+}
+.header-content h1{
+    font-family: 'Lato', sans-serif;
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.header-content p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.shop-btn{
+    padding: 18px 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+    background: #E55473;
+    color: white;
+}
+
+/*featured section is start*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
