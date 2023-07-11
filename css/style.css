@@ -105,10 +105,27 @@ body{
 }
 
 
+/*three man section is start*/
+.three-man-contant{
+    display: flex;
+    width: 1300px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    gap: 100px;
+    text-align: center;
+}
+.single-man{
+    margin-left: 100px;
+}
 
-
-
-
+.single-man p{
+margin-top: 20px;
+}
 
 
 
