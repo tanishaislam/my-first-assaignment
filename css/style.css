@@ -84,7 +84,7 @@ body{
 
 .featured-img{
     text-align: center;
-    width: 350px;
+    width: 380px;
     height: 450px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
@@ -105,15 +105,15 @@ body{
 }
 .featured-box{
     display: flex;
-    margin: 0 250px;
-    gap: 20px;
+    margin: 0 200px;
+    gap: 30px;
 }
 
 
 /*three man section is start*/
 .three-man-contant{
     display: flex;
-    width: 1300px;
+    width: 1200px;
     height: 320px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
@@ -125,7 +125,7 @@ body{
     text-align: center;
 }
 .single-man{
-    margin-left: 100px;
+    margin-left: 90px;
 }
 
 .single-man p{
@@ -206,7 +206,7 @@ text-align: center;
     height: 380px;
     margin-left: 10px;
     margin-right: 10px;
-    border: 5px inset green;
+    border: 3px inset #54abe5;
 }
 /*flower background section is start*/
 
@@ -215,7 +215,7 @@ text-align: center;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 1280px;
+    width: 1300px;
     height: 449px;
     margin: auto;
     text-align: center;
@@ -266,7 +266,7 @@ outline: none;
 }
 .footer-text{
     width: 625px;
-    margin-left: 500px;
+    margin-left: 480px;
 }
 
 .footer-text h1{
